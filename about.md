@@ -22,7 +22,6 @@ My name is Ranjita, and I am a security researcher at CyFI Lab, Georgia Tech. I 
 
 ## Research Experience
 __Research Assistant__
-
 Georgia Institute of Technology, Atlanta, GA 
 
 Under the guidance of Dr. Brendan Saltaformaggio, my research focuses on building hardware profiles from a piece of binary software, by generating the hardware models required by the binary for its execution and monitoring its implications. This effort aims to dynamically analyze IoT malware and further security research for cyber-physical systems.
