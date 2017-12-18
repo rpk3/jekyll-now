@@ -8,13 +8,13 @@ published: true
 My name is Ranjita, and I am a security researcher at CyFI Lab, Georgia Tech. I started my PhD in Fall 2017 under the guidance of Prof. Brendan Saltaformaggio.
 
 ## Education
-..* __Ph.D. in Electrical and Computer Engineering__
+* __Ph.D. in Electrical and Computer Engineering__
 
 ... Georgia Institute of Technology, Atlanta, GA (Fall 2017 - Present)
 
 ... Advisor: [Dr. Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu)
 
-..* __B. E. (Hons.) in Electrical & Electronics Engineering__ 
+* __B. E. (Hons.) in Electrical & Electronics Engineering__ 
 
 ... __M.Sc (Hons.) in Physics__
 
