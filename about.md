@@ -10,15 +10,15 @@ My name is Ranjita, and I am a security researcher at CyFI Lab, Georgia Tech. I 
 ## Education
 * __Ph.D. in Electrical and Computer Engineering__
 
-... Georgia Institute of Technology, Atlanta, GA (Fall 2017 - Present)
+...Georgia Institute of Technology, Atlanta, GA (Fall 2017 - Present)
 
-... Advisor: [Dr. Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu)
+...Advisor: [Dr. Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu)
 
 * __B. E. (Hons.) in Electrical & Electronics Engineering__ 
 
-... __M.Sc (Hons.) in Physics__
+...__M.Sc (Hons.) in Physics__
 
-... Birla Institute of Technology & Science - Pilani, Goa, India (Graduated in July 2014)
+...Birla Institute of Technology & Science - Pilani, Goa, India (Graduated in July 2014)
 
 ## Research Experience
 __Research Assistant__
